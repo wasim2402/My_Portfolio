@@ -9,7 +9,8 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #FFF6E9;
+  /* background-color: #FFF6E9; */
+  background-image: url(assets/bg.webp);
 }
 
 html {
